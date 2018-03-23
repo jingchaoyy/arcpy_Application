@@ -1,3 +1,4 @@
+# Functions for visualizing data
 # After running the evacuation tool, evacuation routes and
 # closets exits can be visualized here
 
