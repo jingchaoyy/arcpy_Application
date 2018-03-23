@@ -34,7 +34,7 @@ d.	Determine ratio according to the canvas size
 e.	Three options for drawing on canvas (Tkinter):
 i.	Fastest route out of DC from user location to a bike share location first: 
 require dataset i, ii, iii, iv, v, vi
- <img src="data/Option1.png" />
+ <img src="data/Option1.png" width="350"/>
 ii.	Route out of DC from Any Location: 
 require dataset i, ii, vii
  
