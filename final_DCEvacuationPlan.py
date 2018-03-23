@@ -2,7 +2,7 @@
 # After running the evacuation tool, evacuation routes and
 # closets exits can be visualized here
 
-# Jingchao, Patrick
+# Jingchao
 # 11/28/2017
 
 from Tkinter import *
