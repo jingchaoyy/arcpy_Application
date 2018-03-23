@@ -2,7 +2,7 @@
 # the closest evacuation exit in D.C. area base on a user location,
 # and the data used here can be replaced
 
-# Jingchao, Patrick
+# Jingchao
 # 11/28/2017
 
 import arcpy
